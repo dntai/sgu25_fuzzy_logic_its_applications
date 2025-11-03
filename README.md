@@ -1,1 +1,1 @@
-# sgu25_fuzzy_logic_its_applications
+# Logic mờ và ứng dụng
